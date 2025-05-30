@@ -1,0 +1,13 @@
+{
+    "name": "Dotnet 10.0 Preview Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/dotnet:10.0-preview",
+    "features": {},
+    "postCreateCommand": "dotnet --version",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-dotnettools.csharp"
+            ]
+        }
+    }
+}
