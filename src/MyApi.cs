@@ -19,9 +19,13 @@ string[] bigTenTeams = new[]
     "Nebraska",
     "Northwestern",
     "Ohio State",
+    "Oregon"
     "Penn State",
     "Purdue",
     "Rutgers",
+    "UCLA",
+    "USC",
+    "Washington",
     "Wisconsin"
 };
 
